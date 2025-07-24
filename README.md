@@ -67,7 +67,3 @@ The dashboard highlights:
 
 Thanks for reading!
 ---
-    jupyter notebook
-    ```
-4.  **Open and run the `MediaTrends.ipynb` notebook** to see the full analysis. The `trending.csv` dataset should be in the same directory.
-

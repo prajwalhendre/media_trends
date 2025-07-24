@@ -56,7 +56,7 @@ The analysis, detailed in the `MediaTrends.ipynb` Jupyter Notebook, seeks to ans
 
 A summary of the key findings was visualized in an interactive Tableau dashboard. This provides a high-level, at-a-glance view of the most important insights from the analysis.
 
-![Tableau Dashboard for Trending Movies Analysis](http://googleusercontent.com/file_content/0)
+![Tableau Dashboard for Trending Movies Analysis](<img width="2798" height="1798" alt="Dashboard 1" src="https://github.com/user-attachments/assets/fee2b316-07a9-4890-b9b6-29f1fc3f740e" />)
 
 The dashboard highlights:
 * Key performance indicators (KPIs) such as the overall average score and total votes.

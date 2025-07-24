@@ -65,22 +65,8 @@ The dashboard highlights:
 * A time-series plot showing how audience popularity has changed over the years.
 * A scatter plot visualizing the relationship between critic ratings and audience popularity.
 
+Thanks for reading!
 ---
-
-## 🚀 How to Run This Project
-
-To replicate this analysis, please follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    ```
-2.  **Install the required libraries.** It is recommended to use a virtual environment.
-    ```bash
-    pip install pandas seaborn matplotlib scipy jupyter
-    ```
-3.  **Launch Jupyter Notebook:**
-    ```bash
     jupyter notebook
     ```
 4.  **Open and run the `MediaTrends.ipynb` notebook** to see the full analysis. The `trending.csv` dataset should be in the same directory.
